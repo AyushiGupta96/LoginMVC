@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * this is the spring project which describes about the functionality of login page.
+ * This is the spring project which describes about the functionality of login page.
  */
 @SpringBootApplication
 public class LoginMvcApplication {
